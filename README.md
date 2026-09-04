@@ -1,2 +1,0 @@
-##
-Simple Interest CalculatorA simple, lightweight script designed to calculate the simple interest based on the principal amount, annual rate of interest, and time duration in years.Formula UsedThe formula for calculating simple interest is:$$A = P (1 + rt)$$Where:$P$ = Principal amount (initial investment or loan amount)$r$ = Annual interest rate (in decimal format, e.g., $5\% = 0.05$)$t$ = Time duration in years$A$ = Total accumulated amount (Principal + Interest)Simple Interest alone can be calculated as:$$\text{Interest} = P \times r \times t$$
