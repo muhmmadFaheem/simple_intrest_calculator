@@ -2,59 +2,51 @@
 
 ## Our Pledge
 
-We pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone.
 
 ## Our Standards
 
-Examples of behavior that contributes to creating a positive environment include:
+Examples of behavior that contributes to a positive environment include:
 
-* Demonstrating empathy and kindness toward other people.
+* Demonstrating empathy and kindness.
 * Being respectful of differing opinions and viewpoints.
-* Giving and gracefully accepting constructive feedback.
-* Accepting responsibility and apologizing to those affected by our mistakes.
-* Focusing on what is best not only for us as individuals, but for the overall community.
+* Giving and accepting constructive feedback.
+* Taking responsibility for mistakes.
 
-Examples of unacceptable behavior include:
-
-* The use of sexualized language or imagery.
-* Trolling, insulting or derogatory comments.
-* Public or private harassment.
-* Publishing others' private information without permission.
-* Other conduct which could reasonably be considered inappropriate in a professional setting.
+Examples of unacceptable behavior include harassment, insulting comments, and other conduct that could reasonably be considered inappropriate.
 
 ## Enforcement Responsibilities
 
-Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior they deem inappropriate, threatening, offensive, or harmful.
+Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior.
 
 ## Scope
 
-This Code of Conduct applies within all community spaces and also applies when an individual is officially representing the community in public spaces.
+This Code of Conduct applies within all community spaces and also applies when an individual is officially representing the community.
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement. All complaints will be reviewed and investigated promptly and fairly.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement.
 
 ## Enforcement Guidelines
 
-Community leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct.
+Community leaders will follow appropriate guidelines when determining the consequences for behavior that violates this Code of Conduct.
 
-### 1. Correction
+### Correction
 
-Community impact: Use of inappropriate language or other behavior deemed unprofessional or unwelcome.
+A private written correction may be provided.
 
-### 2. Warning
+### Warning
 
-Community impact: A violation through a single incident or series of actions.
+A warning may be issued for inappropriate behavior.
 
-### 3. Temporary Ban
+### Temporary Ban
 
-Community impact: A serious violation of community standards.
+A temporary ban may be issued for serious violations.
 
-### 4. Permanent Ban
+### Permanent Ban
 
-Community impact: Demonstrating a pattern of violation of community standards.
+A permanent ban may be issued for repeated or serious violations.
 
 ## Attribution
 
 This Code of Conduct is adapted from the Contributor Covenant Code of Conduct.
-
